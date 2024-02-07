@@ -1,0 +1,8 @@
+*.swap
+*.txt
+*.log
+*.*~
+*.bak
+*.backup
+*.img
+
