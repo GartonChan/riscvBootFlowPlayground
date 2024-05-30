@@ -1,0 +1,15 @@
+[submodule "qemu"]
+	path = qemu
+	url = git@github.com:qemu/qemu.git
+[submodule "u-boot"]
+	path = u-boot
+	url = git@github.com:u-boot/u-boot.git
+[submodule "linux"]
+	path = linux
+	url = git@github.com:torvalds/linux.git
+[submodule "busybox"]
+	path = busybox
+	url = git@github.com:mirror/busybox.git
+[submodule "opensbi"]
+	path = opensbi
+	url = https://github.com/riscv-software-src/opensbi.git
